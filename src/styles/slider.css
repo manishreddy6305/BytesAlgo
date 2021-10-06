@@ -1,0 +1,17 @@
+.slider-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slider-sub{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.icons{
+    font-size: 50px;
+    font-weight: 400;
+}

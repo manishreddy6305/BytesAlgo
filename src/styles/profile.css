@@ -1,0 +1,11 @@
+.profile-main{
+    display: flex;
+    align-items: center;
+    width: 60%;
+}
+.me{
+    border-radius: 50%;
+    width: 100px;
+    margin-right: 50px;
+    height: 100px;
+}

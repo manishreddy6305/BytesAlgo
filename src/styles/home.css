@@ -1,0 +1,74 @@
+.Product-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ps{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+}
+.op{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.Aboutus-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    background-color: rgba(233, 230, 230, 0.945);
+}
+.Abt-sub{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}
+.Abt-con{
+    width: 30%;
+}
+.Abt-img{
+    display: flex;
+    align-items: flex-end;
+    width: 30%;
+}
+.chess{
+    width: 80%;
+}
+.ap{
+    margin-bottom: 0px;
+}
+.email{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #50C878;
+    height: 100px;
+}
+.ei{
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 15px;
+    background-color: #50C878;
+    width: 50%;
+    margin-right: 30px;
+}
+.ei::placeholder{
+    color: white;
+}
+.click{
+    width: 15%;
+    background-color: white;
+    color: #50C878;
+    border: 0px;
+    border-radius: 4px;
+    padding: 15px;
+    cursor: pointer;
+}
+.subs{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}

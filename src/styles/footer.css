@@ -1,0 +1,44 @@
+.footer-main{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.footer-sub{
+    display: flex;
+    width: 60%;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+.Ql{
+    margin-bottom: 0px;
+    font-size: 13px;
+    margin-top: 15px;
+
+}
+.handles{
+    margin-right: 7px;
+}
+.Ql2{
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+.ic{
+    display: flex;
+}
+.info{
+    margin-top: 5px;
+}
+.info2{
+    margin-bottom: 10px;
+    margin-top: 13px;
+}
+.copyright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    height: 50px;
+    text-align: center;
+    color: white;
+}

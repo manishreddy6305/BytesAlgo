@@ -1,0 +1,9 @@
+.fs{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    text-align: left;
+}
+.fs2{
+    margin-right: 70px;
+}

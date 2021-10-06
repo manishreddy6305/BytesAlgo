@@ -1,0 +1,16 @@
+.Productc{
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.content{
+    width: 70%;
+    text-align: center;
+}
+.star{
+    width: 70px;
+    height: 70px;
+}
